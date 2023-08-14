@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Data Scientist|Machine learning Engineer</h1>
 <h3 align="center">I am a machine learning engineer and data scientist with a taste for adventure. I love to explore the world of data and find hidden insights that can help businesses grow,with the skill to deploy, monitor, and maintain machine learning models. I am always looking for new ways to use data to make discoveries and create new products and services. I am always looking for ways to collaborate and learn new things from others to achieve great things.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibru9399" alt="kibru9399" /></a> </p>
-
 - 💬 Ask me about **how I use machine learning to solve real-world problems, end to end projects**
 
 - 📫 How to reach me **kibrutemesgen15@gmail.com**
