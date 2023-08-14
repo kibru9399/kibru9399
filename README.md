@@ -12,10 +12,15 @@
 </p>
 
 ⚡Experience in developing and implementing machine learning models and algorithms.  This includes experience in data preprocessing, feature engineering, model selection, hyperparameter tuning, and model evaluation, including working with different types of machine learning models such as supervised learning, unsupervised learning, and reinforcement learning.
+
 ⚡Proficient in object-oriented programming using Python and capable of writing clean and efficient code that is easy to maintain and scale. 
+
 ⚡Experience in working with machine learning frameworks such as TensorFlow, PyTorch, Keras, Sklearn, and Langchain
+
 ⚡experience working with cloud platforms such as AWS. Capable of deploying and managing machine learning models on these platforms efficiently.
+
 ⚡Experience working with databases such as SQL and being able to work with different types of databases efficiently to extract data from them for machine learning purposes.
+
 ⚡Strong understanding of statistics, mathematics and the ability to apply statistical concepts such as hypothesis testing and regression analysis to solve real-world problems using machine learning.
 
 
