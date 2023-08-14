@@ -37,7 +37,8 @@ Data Preprocessing: NumPy, Pandas
 
 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, TensorFlow
 
-Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. 
+Natural Language Processing: NLTK, BERT.
+Development: Python,  Git. 
 
 Data Visualization: Matplotlib, Seaborn. 
 
