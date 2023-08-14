@@ -30,3 +30,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kibru9399&show_icons=true&locale=en&layout=compact" alt="kibru9399" /></p>
 
 
+### Tools | Frameworks 
+
+
+Data Preprocessing: NumPy, Pandas
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, TensorFlow
+
+Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. 
+
+Data Visualization: Matplotlib, Seaborn. 
+
+Cloud Services: AWS
+
+Integrated Development Environment: Jupyter-Notebook, VSCode, PyCharm.
+
+
