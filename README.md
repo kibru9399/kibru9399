@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **how I use machine learning to solve real-world problems, end to end projects**
 
-- 📫 How to reach me **kibrutemesgen15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
